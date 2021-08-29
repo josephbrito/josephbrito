@@ -6,9 +6,9 @@
 - 👦🏽 Pronouns: he/him
 
 <div>
-  <a href="https://github.com/sethcohen333">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sethcohen333&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethcohen333&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/josephbrito">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josephbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephbrito&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br />
   <div style="display: inline_block"><br>
