@@ -1,7 +1,7 @@
 ### José de Brito, 16yo
 
 - ✏ I'm currently in the second year of high school 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Firebase
 - 📫 How to reach me: jokesta02@gmail.com
 - 👦🏽 Pronouns: he/him
 
