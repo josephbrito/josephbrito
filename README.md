@@ -1,4 +1,4 @@
-### José de Brito, 16yo
+### José de Brito, 17yo
 
 - ✏ I'm currently in the second year of high school 
 - 🌱 I’m currently learning Firebase
