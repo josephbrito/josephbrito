@@ -1,6 +1,6 @@
 ### José de Brito, 17yo
 
-- ✏ I'm currently in the second year of high school 
+- ✏ I am currently in the third year of high school (final year) 
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: jokesta02@gmail.com
 - 👦🏽 Pronouns: he/him
