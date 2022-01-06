@@ -1,10 +1,8 @@
 ### José de Brito, 17yo
 
-- ✏ I am currently in the third year of high school (final year);
-- 🌱 I’m currently learning Typescript;
-- 📫 How to reach me: jokesta02@gmail.com;
-- 👦🏽 Pronouns: he/him;
-
+- ✏ Atualmente estou no último ano do ensino médio (3° ano);
+- 🌱 Estudando Typescript;
+- 📫 Contato: jokesta02@gmail.com;
 <h1>📌Um pouco mais sobre meu perfil</h1>
 <div>
   <a href="https://github.com/josephbrito">
