@@ -2,7 +2,7 @@
 
 - ✏ Atualmente estou no último ano do ensino médio (3° ano);
 - 🌱 Estudando Typescript;
-- 📫 Contato: jokesta02@gmail.com;
+- ❤ Apaixonado por tecnologia;
 <h1>📌Um pouco mais sobre meu perfil</h1>
 <div>
   <a href="https://github.com/josephbrito">
