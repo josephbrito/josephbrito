@@ -1,7 +1,7 @@
 ### José de Brito, 17yo
 
 - ✏ Atualmente estou no último ano do ensino médio (3° ano);
-- 🌱 Inglês intermediário 💗;
+- 🌱 Inglês intermediário;
 - ❤ Apaixonado por tecnologia;
 <h1>📌Um pouco mais sobre meu perfil</h1>
 <div>
@@ -28,6 +28,7 @@
 <div><h1>🎓Back-end e banco de dados:</h1></div>
   <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
   
