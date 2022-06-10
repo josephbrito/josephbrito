@@ -1,7 +1,7 @@
 ### José de Brito, 17yo
 
 - ✏ Atualmente estou no último ano do ensino médio (3° ano);
-- 🌱 Estudando NestJS 💗;
+- 🌱 Inglês intermediário 💗;
 - ❤ Apaixonado por tecnologia;
 <h1>📌Um pouco mais sobre meu perfil</h1>
 <div>
