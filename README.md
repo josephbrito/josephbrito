@@ -53,6 +53,7 @@
   
   <div><h1>📩 Contact me</h1></div>
     <div style="display: inline_block">
-    <a href="https://www.linkedin.com/in/jos%C3%A9-brito-b14472215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href="mailto:josephbritogds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   </div>
+    <a href="https://www.linkedin.com/in/jos%C3%A9-brito-b14472215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+     <a href="mailto:josephbritogds@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+          <a href="https://wa.me/5511982339453"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
