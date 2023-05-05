@@ -2,7 +2,7 @@
 
 <p>I'm José de Brito</p>
 <p>18yo Web & Mobile developer</p>
-<p>coding and coding for love</p>
+<p>Making web applications and softwares for fun</p>
 
 <p> 💻 Mac | Debian
 
