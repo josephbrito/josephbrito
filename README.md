@@ -1,7 +1,7 @@
 ## About me
 
 <p>I'm José de Brito</p>
-<p>20yo Web & Mobile developer</p>
+<p>21yo Web & Mobile developer</p>
 <p>Making web applications and softwares for fun</p>
 
 <p> 💻 Mac | Debian
